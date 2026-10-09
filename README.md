@@ -4,7 +4,7 @@
 
 Ejemplo computacional de la exposición *Explainable AI* — Aprendizaje Automático, MCDA 2026-2, Universidad EAFIT (profesor Andrés Vásquez Restrepo).
 
-Autores: **[Nombre 1]** y **[Nombre 2]**
+
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tomasguzman0925-ship-it/AXL/blob/main/XAI_mantenimiento_predictivo.ipynb)
 
